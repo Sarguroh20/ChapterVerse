@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChapterVerseUI", "ChapterVerseUI\ChapterVerseUI.csproj", "{E61E67AC-B414-4D00-80CB-F55D912749EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61E67AC-B414-4D00-80CB-F55D912749EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61E67AC-B414-4D00-80CB-F55D912749EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61E67AC-B414-4D00-80CB-F55D912749EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61E67AC-B414-4D00-80CB-F55D912749EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51C775A-0DFD-4D4C-866E-B010C6EC87C7}
+	EndGlobalSection
+EndGlobal
